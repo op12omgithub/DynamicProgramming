@@ -26,3 +26,9 @@ Program2: Input matrix of the Village connectivity is taken as input.
 	  N is the number of villages.
 ####################################################################################################
 
+Program: RectangleAllPathNumber.cpp
+In a given rectangle, find out number of path from (0,0) to buttom right corner. Move is allowed only in RIGHT and DOWN direction.
+Two solution are given
+1. Using Permutation nCr
+2. Recursive solution
+
