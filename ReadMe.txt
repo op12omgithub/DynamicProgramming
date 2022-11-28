@@ -32,3 +32,8 @@ Two solution are given
 1. Using Permutation nCr
 2. Recursive solution
 
+######################################################################################################
+Program: PermutationOfAllNumber
+In a given array, print all sub sets. Two approach:
+1. Using Recursion
+2. Using Bitwise Operator
